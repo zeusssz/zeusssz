@@ -1,3 +1,3 @@
 # wsg. Im **zeus**
-I code. I need therapy.
+i code and mess with computers
 
