@@ -2,6 +2,7 @@ beep boop kaboom
 
 
 I do ML & Web, but most of my stuff is private.
+<br>
 ![image](https://github.com/user-attachments/assets/7b9f1bf1-ccd3-4bf0-83be-2778e4a629fb)
 
 
