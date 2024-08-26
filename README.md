@@ -10,6 +10,7 @@ I do ML & Web, but most of my stuff is private.
 ## Tools & Technologies
 
 Here are some of the tools and technologies I work with:
+<br>
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
 ![Lua](https://img.shields.io/badge/-Lua-ffffff?style=flat-square&logo=lua&logoColor=2C2D72)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
