@@ -8,8 +8,20 @@ I do ML & Web, but most of my stuff is private.
 [`/user/3q1uv658jkjf2ovgg7cvcmwlh`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
 
 ## Stuff I've Worked On (Unpinned)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=life-py)](https://github.com/zeusssz/life-py)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess)](https://github.com/CraftyRyte/pygess)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/zeusssz/life-py">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=life-py" alt="life-py"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/zeusssz/pygess">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess" alt="pygess"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Tools & Technologies
 
