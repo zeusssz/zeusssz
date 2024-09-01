@@ -16,7 +16,7 @@ I do ML & Web, but most of my stuff is private.
       </a>
     </td>
     <td>
-      <a href="https://github.com/zeusssz/pygess">
+      <a href="https://github.com/CraftyRyte/pygess">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess" alt="pygess"/>
       </a>
     </td>
