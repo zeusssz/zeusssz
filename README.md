@@ -7,8 +7,9 @@ I do ML & Web, but most of my stuff is private.
 <br>
 [`/user/3q1uv658jkjf2ovgg7cvcmwlh`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
 
-## Stuff I've Done
+## Stuff I've Worked On (Unpinned)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=life-py)](https://github.com/zeusssz/life-py)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess)](https://github.com/CraftyRyte/pygess)
 
 ## Tools & Technologies
 
