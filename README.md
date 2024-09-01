@@ -7,6 +7,14 @@ I do ML & Web, but most of my stuff is private.
 <br>
 [`/user/3q1uv658jkjf2ovgg7cvcmwlh`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
 
+## Stuff I've Done
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=multi-CLI)](https://github.com/zeusssz/multi-CLI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=discord-bot-hub)](https://github.com/zeusssz/discord-bot-hub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=hercules-obfuscator)](https://github.com/zeusssz/hercules-obfuscator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=movement-test)](https://github.com/zeusssz/movement-test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=snack-sized-snake)](https://github.com/zeusssz/snack-sized-snake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=roblox-web-port)](https://github.com/zeusssz/roblox-web-port)
+
 ## Tools & Technologies
 
 Here are some of the tools and technologies I work with:
