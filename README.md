@@ -49,4 +49,4 @@ Here are some of the tools and technologies I work with:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat-square&logo=linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
