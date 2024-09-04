@@ -11,17 +11,10 @@ I do ML & Web, but most of my stuff is private.
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/zeusssz/life-py">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=life-py" alt="life-py"/>
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/CraftyRyte/pygess">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess" alt="pygess"/>
       </a>
     </td>
-  </tr>
-  <tr>
   <td>
       <a href="https://github.com/zeusssz/movement-test">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=movement-test" alt="movement-test"/>
