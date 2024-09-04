@@ -8,20 +8,9 @@ I do ML & Web, but most of my stuff is private.
 [`/user/3q1uv658jkjf2ovgg7cvcmwlh`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
 
 ### Stuff I've Worked On (Unpinned)
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/CraftyRyte/pygess">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess" alt="pygess"/>
-      </a>
-    </td>
-  <td>
-      <a href="https://github.com/zeusssz/movement-test">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=movement-test" alt="movement-test"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[movement-game](https://github.com/zeusssz/movement-test) - A ThreeJS based game, similar to the slenderman games (WIP).
+[pygess](https://github.com/CraftyRyte/pygess) - A PyGame addon, created by @CraftyRyte.
+[life-py](https://github.com/zeusssz/life-py) - Simulation of a eukaryotic cell in python.
 
 ## Tools & Technologies
 
