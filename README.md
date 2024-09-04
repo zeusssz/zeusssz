@@ -12,17 +12,17 @@ I do ML & Web, but most of my stuff is private.
   <tr>
     <td>
       <a href="https://github.com/zeusssz/life-py">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=life-py" alt="life-py"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=life-py" alt="life-py" width="150"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/CraftyRyte/pygess">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess" alt="pygess"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess" alt="pygess" width="150"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/zeusssz/movement-test">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=movement-test" alt="movement-test"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=movement-test" alt="movement-test" width="150"/>
       </a>
     </td>
   </tr>
