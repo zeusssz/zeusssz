@@ -9,7 +9,9 @@ I do ML & Web, but most of my stuff is private.
 
 ### Stuff I've Worked On (Unpinned)
 [movement-game](https://github.com/zeusssz/movement-test) - A ThreeJS based game, similar to the slenderman games (WIP).
+<br>
 [pygess](https://github.com/CraftyRyte/pygess) - A PyGame addon, created by @CraftyRyte.
+<br>
 [life-py](https://github.com/zeusssz/life-py) - Simulation of a eukaryotic cell in python.
 
 ## Tools & Technologies
