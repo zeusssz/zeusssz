@@ -20,7 +20,9 @@ I do ML & Web, but most of my stuff is private.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess" alt="pygess"/>
       </a>
     </td>
-    <td>
+  </tr>
+  <tr>
+  <td>
       <a href="https://github.com/zeusssz/movement-test">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=movement-test" alt="movement-test"/>
       </a>
