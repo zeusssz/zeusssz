@@ -26,6 +26,7 @@ Here are some of the tools and technologies I work with:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![C](https://img.shields.io/badge/-C-f0f0f2?style=flat-square&logo=c&logoColor=8198a3)
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-0078D4?style=flat-square&logo=roblox&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
