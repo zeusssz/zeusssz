@@ -8,17 +8,25 @@ I do ML & Web, but most of my stuff is private.
 [`/user/3q1uv658jkjf2ovgg7cvcmwlh`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
 
 ### Stuff I've Worked On (Unpinned)
-<div align="center">
-  <a href="https://github.com/zeusssz/life-py">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=life-py" alt="life-py" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/CraftyRyte/pygess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess" alt="pygess" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/zeusssz/movement-test">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=movement-test" alt="movement-test" style="max-width: 100%;">
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/zeusssz/life-py">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=life-py" alt="life-py"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/CraftyRyte/pygess">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CraftyRyte&repo=pygess" alt="pygess"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/zeusssz/movement-test">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusssz&repo=movement-test" alt="movement-test"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Tools & Technologies
 
