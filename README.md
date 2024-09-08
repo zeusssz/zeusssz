@@ -25,6 +25,7 @@ Here are some of the tools and technologies I work with:
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![C](https://img.shields.io/badge/-C-35495E?style=flat-square&logo=c&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-0078D4?style=flat-square&logo=roblox&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
@@ -40,4 +41,3 @@ Here are some of the tools and technologies I work with:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat-square&logo=linux&logoColor=000000)
-![C](https://img.shields.io/badge/-C-35495E?style=flat-square&logo=c&logoColor=ffffff)
