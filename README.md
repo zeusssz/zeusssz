@@ -43,5 +43,5 @@ Here are some of the tools and technologies I work with:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat-square&logo=linux&logoColor=000000)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=Ruby&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white)
