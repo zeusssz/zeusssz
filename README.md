@@ -15,6 +15,8 @@ I do ML & Web, but most of my stuff is private.
 [life-py](https://github.com/zeusssz/life-py) - Simulation of a eukaryotic cell in python.
 <br>
 [snack-sized-snake](https://github.com/zeussssz/snack-sized-snake) - Snake game written in assembly, compressed to >500 bytes
+<br>
+[ninja](https://github.com/zeusssz/ninja) - Vulnerability detection tool
 
 ## Tools & Technologies
 
