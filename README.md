@@ -51,3 +51,4 @@ Here are some of the tools and technologies I work with:
 ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat-square&logo=linux&logoColor=000000)
 ![Ruby](https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=Ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-FFA693?style=flat-square&logo=Rust&logoColor=black)
