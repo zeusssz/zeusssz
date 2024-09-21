@@ -9,7 +9,7 @@ reverse engineering go brrr
 <br>
 `@roboxer_` on Discord. pretty much my only active social
 <br>
-[`/user/3q1uv658jkjf2ovgg7cvcmwlh`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
+[`Zeus`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
 
 ### Stuff I've Worked On (Unpinned)
 [movement-game](https://github.com/zeusssz/movement-test) - A ThreeJS based game, similar to the slenderman games (WIP).
