@@ -1,31 +1,32 @@
-beep boop kaboom 💥
-<br>
+beep boop kaboom 💥  
 <img src="https://komarev.com/ghpvc/?username=zeusssz" alt="views"/>
 
-I do ML & Web, but most of my stuff is private.
-<br>
+i do ML & Web, but most of my stuff is private.  
 reverse engineering go brrr
 <br>
 <br>
-[`@roboxer_`](https://discordapp.com/users/844557128139014205) on Discord. pretty much my only active social
-<br>
+i also like javascript B)
+
+[`@roboxer_`](https://discordapp.com/users/844557128139014205) on Discord. pretty much my only active social  
 [`Zeus`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
 
-### Stuff I've Worked On (Unpinned)
-[movement-game](https://github.com/zeusssz/movement-test) - A ThreeJS based game, similar to the slenderman games (WIP).
-<br>
-[CraftyRyte/pygess](https://github.com/CraftyRyte/pygess) - A PyGame addon, created by @CraftyRyte.
-<br>
-[life-py](https://github.com/zeusssz/life-py) - Simulation of a eukaryotic cell in python.
-<br>
-[snack-sized-snake](https://github.com/zeussssz/snack-sized-snake) - Snake game written in assembly, compressed to >500 bytes
-<br>
-[ninja](https://github.com/zeusssz/ninja) - Vulnerability detection tool
+<details>
+<summary>Stuff I've Worked On (Unpinned)</summary>
 
-## Tools & Technologies
+- [movement-game](https://github.com/zeusssz/movement-test) - A ThreeJS based game, similar to the slenderman games (WIP).
+- [CraftyRyte/pygess](https://github.com/CraftyRyte/pygess) - A PyGame addon, created by @CraftyRyte.
+- [life-py](https://github.com/zeusssz/life-py) - Simulation of a eukaryotic cell in python.
+- [snack-sized-snake](https://github.com/zeusssz/snack-sized-snake) - Snake game written in assembly, compressed to >500 bytes.
+- [ninja](https://github.com/zeusssz/ninja) - Vulnerability detection tool.
+
+</details>
+
+<details>
+<summary>Tools & Technologies</summary>
 
 Here are some of the tools and technologies I work with:
-<br>
+
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
 ![Lua](https://img.shields.io/badge/-Lua-ffffff?style=flat-square&logo=lua&logoColor=2C2D72)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
@@ -53,3 +54,5 @@ Here are some of the tools and technologies I work with:
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-FFA693?style=flat-square&logo=Rust&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-E10098?style=flat-square&logo=cplusplus&logoColor=ffffff)
+
+</details>
