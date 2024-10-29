@@ -11,6 +11,11 @@ i also like javascript B)
 [`Zeus`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
 
 <details>
+<summary>Github Trophies</summary>
+
+![](https://github-profile-trophy.vercel.app/?username=zeusssz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</details>
+<details>
 <summary>Stuff I've Worked On (Unpinned)</summary>
 
 - [movement-game](https://github.com/zeusssz/movement-test) - A ThreeJS based game, similar to the slenderman games (WIP).
