@@ -11,9 +11,12 @@ i also like javascript B)
 [`Zeus`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
 
 <details>
-<summary>Github Trophies</summary>
+<summary>Github Stuff</summary>
 
 ![](https://github-profile-trophy.vercel.app/?username=zeusssz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=zeusssz&show_icons=true&locale=en&layout=compact)
+<br>
+![](https://github-readme-stats.vercel.app/api?username=zeusssz&show_icons=true&locale=en)
 </details>
 <details>
 <summary>Stuff I've Worked On (Unpinned)</summary>
