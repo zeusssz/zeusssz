@@ -1,6 +1,5 @@
 beep boop kaboom 💥  
-<img src="https://komarev.com/ghpvc/?username=zeusssz" alt="views"/>
-
+<br>
 i do ML & Web, but most of my stuff is private.  
 reverse engineering go brrr
 <br>
@@ -62,5 +61,5 @@ Here are some of the tools and technologies I work with:
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-FFA693?style=flat-square&logo=Rust&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-E10098?style=flat-square&logo=cplusplus&logoColor=ffffff)
-
 </details>
+<img height=16 align="right" src="https://komarev.com/ghpvc/?username=zeusssz" alt="views"/>
