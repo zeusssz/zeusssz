@@ -14,7 +14,7 @@ i also like javascript B)
 <details>
 <summary>Github Stuff</summary>
 
-![](https://github-profile-trophy.vercel.app/?username=zeusssz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zeusssz&theme=onedark)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=zeusssz&show_icons=true&locale=en&layout=compact)
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=zeusssz&show_icons=true&locale=en)
