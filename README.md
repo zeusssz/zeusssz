@@ -2,8 +2,7 @@ beep boop kaboom 💥
 <br>
 i do ML & Web, but most of my stuff is private.  
 reverse engineering go brrr
-<br>
-<br>
+
 i also like javascript B)
 
 [`@zeusssz_`](https://discordapp.com/users/844557128139014205) on Discord. pretty much my only active social  
@@ -57,11 +56,14 @@ Here are some of the tools and technologies I work with:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebas-FF6F00?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat-square&logo=linux&logoColor=000000)
 ![Ruby](https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=Ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-FFA693?style=flat-square&logo=Rust&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-E10098?style=flat-square&logo=cplusplus&logoColor=ffffff)
 </details>
-<img height=16 align="right" src="https://komarev.com/ghpvc/?username=zeusssz" alt="views"/>
+
+<br>
+
+Developer [@GutsAndCompSci](https://github.com/GutsAndCompSci) <img height=16 align="right" src="https://komarev.com/ghpvc/?username=zeusssz" alt="views"/>
