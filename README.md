@@ -3,8 +3,6 @@ beep boop kaboom 💥
 i do ML & Web, but most of my stuff is private.  
 reverse engineering go brrr
 
-i also like javascript B)
-
 [`@zeusssz_`](https://discordapp.com/users/844557128139014205) on Discord. pretty much my only active social  
 [`Zeus`](https://open.spotify.com/user/3q1uv658jkjf2ovgg7cvcmwlh) on Spotify
 <br>
