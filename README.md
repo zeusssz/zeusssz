@@ -66,4 +66,4 @@ Here are some of the tools and technologies I work with:
 
 <br>
 
-Developer [@GutsAndCompSci](https://github.com/GutsAndCompSci) <img height=16 align="right" src="https://komarev.com/ghpvc/?username=zeusssz" alt="views"/>
+Developer [@GutsAndCompSci](https://github.com/GutsAndCompSci) <br> Member [@HATS](https://github.com/hatsgroup) <img height=16 align="right" src="https://komarev.com/ghpvc/?username=zeusssz" alt="views"/>
