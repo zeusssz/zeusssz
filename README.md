@@ -19,8 +19,9 @@ go star hercules pls B)
 ![](https://github-readme-stats.vercel.app/api?username=zeusssz&show_icons=true&locale=en)
 </details>
 <details>
-<summary>Stuff I've Worked On (Unpinned)</summary>
+<summary>Stuff I've Worked On (Unpinned Ones)</summary>
 
+- [athena](https://github.com/PRZELAB/athena) - A discord bot to find obfuscated Lua scripts, and then start the deobfuscation process
 - [movement-game](https://github.com/zeusssz/movement-test) - A ThreeJS based game, similar to the slenderman games (WIP).
 - [CraftyRyte/pygess](https://github.com/CraftyRyte/pygess) - A PyGame addon, created by @CraftyRyte.
 - [life-py](https://github.com/zeusssz/life-py) - Simulation of a eukaryotic cell in python.
