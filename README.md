@@ -24,7 +24,6 @@ go star hercules pls B)
 - [athena](https://github.com/PRZELAB/athena) - A discord bot to find obfuscated Lua scripts, and then start the deobfuscation process
 - [movement-game](https://github.com/zeusssz/movement-test) - A ThreeJS based game, similar to the slenderman games (WIP).
 - [CraftyRyte/pygess](https://github.com/CraftyRyte/pygess) - A PyGame addon, created by @CraftyRyte.
-- [life-py](https://github.com/zeusssz/life-py) - Simulation of a eukaryotic cell in python.
 - [snack-sized-snake](https://github.com/zeusssz/snack-sized-snake) - Snake game written in assembly, compressed to >500 bytes.
 - [ninja](https://github.com/zeusssz/ninja) - Vulnerability detection tool.
 
