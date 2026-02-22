@@ -14,9 +14,9 @@ go star hercules pls B)
 <summary>Github Stuff</summary>
 
 ![](https://github-profile-trophy.vercel.app/?username=zeusssz&theme=onedark)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=zeusssz&show_icons=true&locale=en&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=zeusssz&show_icons=true&locale=en&layout=compact)
 <br>
-![](https://github-readme-stats.vercel.app/api?username=zeusssz&show_icons=true&locale=en)
+![](https://github-stats-extended.vercel.app/api?username=zeusssz&show_icons=true&locale=en)
 </details>
 <details>
 <summary>Stuff I've Worked On (Unpinned Ones)</summary>
